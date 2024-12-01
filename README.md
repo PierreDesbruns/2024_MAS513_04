@@ -1,4 +1,4 @@
-# A Prototype for Enhancing Palpation and Percussion Training for Physical Examination via Augmented Reality
+# A Prototype for Enhancing Palpation and Percussion Training for Physical Examination via Augmented Reality and Haptics: Visual Rendering
 
 This repository contains the assets of Unity scene used to code the Meta Quest II headset.
 
