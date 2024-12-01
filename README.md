@@ -8,7 +8,7 @@ Author: Pierre Desbruns
 ## Reference scene
 Reference scene is VisualRendering (`Assets/Scenes/VisualRendering.unity`). It is organised as follows:
 
-![Screenshot of VisualRendering scene hierarchy in Unity editor](screenshot_unity_scene)
+![Screenshot of VisualRendering scene hierarchy in Unity editor](screenshot_unity_scene.jpg)
 
 ## Game objects
 - *OVRCameraRig* produces main headset features, such as student hand tracking and world environment rendering with Meta Quest Passthrough. This object is a prefab from Meta Quest libraries.
